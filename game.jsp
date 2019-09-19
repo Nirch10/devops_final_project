@@ -9,7 +9,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Number Guess System</title>
+    <title>Number Guess System Whoho</title>
       <style>
           .error{ color: red; }
           .success { color: greenyellow; }
