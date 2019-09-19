@@ -16,12 +16,12 @@
       </style>
   </head>
   <body>
-    <h1>Hello world</h1>
+    <h1>Best Game Ever</h1>
     <%
         for(int i = 1; i<=10; i++){ %>
         <h5><%= +i%></h5>
     <% } %>
-    <h1>Number Guess System</h1>
+    <h1>Guess My Number</h1>
     <p>Guess Number within 1 and 10</p>
 
     <%
