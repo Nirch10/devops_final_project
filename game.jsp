@@ -16,7 +16,7 @@
       </style>
   </head>
   <body>
-    <h1>Best Game Ever</h1>
+    <h1>Best Game Ever!!</h1>
     <%
         for(int i = 1; i<=10; i++){ %>
         <h5><%= +i%></h5>
